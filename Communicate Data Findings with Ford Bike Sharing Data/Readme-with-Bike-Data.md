@@ -1,5 +1,5 @@
 # Dataset Exploration with Ford GoBike System Data
-## by Xi Zhou
+## by Dmytro Pashchenko
 
 
 ## Data source :
